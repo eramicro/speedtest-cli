@@ -1,4 +1,4 @@
-speedtest-cli
+speedtest-cli测速工具
 =============
 
 Command line interface for testing internet bandwidth using
