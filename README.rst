@@ -124,6 +124,11 @@ Usage
                             support systems with insufficient memory, use this
                             option to avoid a MemoryError
       --version             Show the version number and exit
+      
+      
+      edtest-cli --list | grep China
+      
+      eedtest-cli --server=5145 --share
 
 
 Python API
